@@ -41,16 +41,6 @@ Software developer with over 10 years of experience.
 
 ---
 
-## Services & Expertise
-Looking to solve a specific challenge? Here's where I can help directly through SolDevelo:
-
-- [**Custom Software Development**](https://soldevelo.com/services/custom-software-development/) — End-to-end software built for your specific problem
-- [**Accessibility Audit**](https://soldevelo.com/services/accessibility-audit/) — Identify and fix barriers that exclude users from your product
-- [**Frontend Modernization**](https://soldevelo.com/services/frontend-modernization/) — Bring legacy frontends up to modern standards without a full rewrite
-- [**AWS Cost Optimization**](https://soldevelo.com/services/aws-cost-optimization/) — Reduce cloud spend without sacrificing performance
-
----
-
 <div align="center">
   <sub>Part of the <a href="https://soldevelo.com/">SolDevelo</a> team — building software that matters.</sub>
 </div>
